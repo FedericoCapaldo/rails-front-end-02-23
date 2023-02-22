@@ -1,7 +1,1 @@
-h1 {
-  background-color: blue;
-
-  &:hover {
-    background-color: green;
-  }
-}
+@import "bootstrap/scss/bootstrap"; /* picks it up in node_modules! */
