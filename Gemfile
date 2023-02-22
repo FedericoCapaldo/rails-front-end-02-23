@@ -46,9 +46,10 @@ gem "bootsnap", require: false
 gem "sassc-rails"
 
 
-# styles gems
+# gems for lewagon setup
 gem "font-awesome-sass", "~> 6.1"
 gem "simple_form", github: "heartcombo/simple_form"
+gem "autoprefixer-rails"
 
 
 # Use Active Storage variants [https://guides.rubyonrails.org/active_storage_overview.html#transforming-images]
